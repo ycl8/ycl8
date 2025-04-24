@@ -63,71 +63,9 @@
 
 
 
-### 📊 WakaTime
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=sun0225SUN&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=sun0225SUN&layout=compact&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true"
-    media="(prefers-color-scheme: light)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sun0225SUN&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
-</picture>
-
-</td></tr>
-
-<tr><td>
-
-<!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                725 commits         ███████░░░░░░░░░░░░░░░░░░   26.10 % 
-🌆 Daytime                839 commits         ████████░░░░░░░░░░░░░░░░░   30.20 % 
-🌃 Evening                710 commits         ██████░░░░░░░░░░░░░░░░░░░   25.56 % 
-🌙 Night                  504 commits         █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   389 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
-Tuesday                  299 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
-Wednesday                422 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
-Thursday                 309 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
-Friday                   644 commits         ██████░░░░░░░░░░░░░░░░░░░   23.18 % 
-Saturday                 276 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
-Sunday                   439 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
-```
 
 
-📊 **This Week I Spent My Time On** 
 
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-TypeScript               28 hrs 22 mins      ███████████████████████░░   93.48 % 
-JSON                     31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
-YAML                     28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
-Python                   19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
-Markdown                 17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
-
-🔥 Editors: 
-VS Code                  27 hrs 12 mins      ██████████████████████░░░   89.62 % 
-Cursor                   3 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
-
-💻 Operating System: 
-Mac                      30 hrs 21 mins      █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 24/04/2025 00:42:33 UTC
-<!--END_SECTION:waka-->
-
-</td></tr>
 
 </table>
 
