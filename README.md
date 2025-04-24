@@ -48,7 +48,7 @@
 
 ### 🤺 About Me
 
-<img align="right" width="88" src="https://pic.netbian.com/uploads/allimg/250410/092428-174424826872f5.jpg" />
+<img align="right" width="88" src="[https://pic.netbian.com/uploads/allimg/250410/092428-174424826872f5.jpg](https://pic.netbian.com/uploads/allimg/250410/092428-174424826872f5.jpg)" />
 
 <p>&emsp;&emsp;嗨，你好，我是小孙同学。热爱编程、摄影、读书、旅行。</p>
 <p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
