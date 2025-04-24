@@ -2,9 +2,10 @@
 
   <!-- dynamic typing effect 动态打字效果 -->
   <div>
-    <a href="https://blog.sunguoqi.com/">
+  <!--   <a href="https://blog.sunguoqi.com/">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);小孙同学祝您今天愉快!&center=true&size=27" />
-    </a>
+    </a> -->
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%98%82%F0%9F%98%82%E7%A5%9D%E4%BD%A0%E4%BB%8A%E5%A4%A9%E6%84%89%E5%BF%AB%EF%BC%81%F0%9F%98%82%F0%9F%98%82" alt="Typing SVG" /></a>
   </div>
 
   <!-- knock code pictures 敲代码的图片 -->
