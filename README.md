@@ -20,15 +20,15 @@
 
   <!-- profile logo 个人资料徽标 -->
   <div>
-    <a href="javascript:void(0);"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
-    <a href="javascript:void(0);"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
+<!--     <a href="javascript:void(0);"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp; -->
+<!--     <a href="javascript:void(0);"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp; -->
     <a href="javascript:void(0);"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
     <a href="javascript:void(0);"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
     <a href="javascript:void(0);"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
     <!-- visitor -->
     <img src="https://komarev.com/ghpvc/?username=sun0225SUN&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
     <!-- wakatime -->    
-    <a href="https://wakatime.com/@sun0225SUN"><img src="https://wakatime.com/badge/user/42d0678c-368b-448b-9a77-5d21c5b55352.svg" /></a>
+<!--     <a href="https://wakatime.com/@sun0225SUN"><img src="https://wakatime.com/badge/user/42d0678c-368b-448b-9a77-5d21c5b55352.svg" /></a> -->
 
   </div>
 
