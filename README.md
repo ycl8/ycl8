@@ -19,11 +19,11 @@
 
   <!-- profile logo 个人资料徽标 -->
   <div>
-    <a href="https://twitter.com/sun0225SUN/"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
-    <a href="https://www.youtube.com/@sun0225SUN"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
-    <a href="https://sunguoqi.com/"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
-    <a href="https://wechat.guoqi.dev"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
-    <a href="https://space.bilibili.com/448488855/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
+    <a href="javascript:void(0);"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
+    <a href="javascript:void(0);"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
+    <a href="javascript:void(0);"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
+    <a href="javascript:void(0);"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
+    <a href="javascript:void(0);"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
     <!-- visitor -->
     <img src="https://komarev.com/ghpvc/?username=sun0225SUN&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
     <!-- wakatime -->    
@@ -48,7 +48,7 @@
 
 ### 🤺 About Me
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/jobs.png" />
+<img align="right" width="88" src="https://pic.netbian.com/uploads/allimg/250410/092428-174424826872f5.jpg" />
 
 <p>&emsp;&emsp;嗨，你好，我是小孙同学。热爱编程、摄影、读书、旅行。</p>
 <p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
